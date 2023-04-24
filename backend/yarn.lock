@@ -168,10 +168,10 @@ cookie@0.5.0:
   resolved "https://registry.yarnpkg.com/cookie/-/cookie-0.5.0.tgz#d1f5d71adec6558c58f389987c366aa47e994f8b"
   integrity sha512-YZ3GUyn/o8gfKJlnlX7g7xq4gyO6OSuhGPKaaGssGB2qgDUS0gPgtTvoyZLTt9Ab6dC4hfc9dV5arkvc/OCmrw==
 
-csrf-csrf@^2.2.3:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/csrf-csrf/-/csrf-csrf-2.2.3.tgz#e231c0f97f4608b2f3b69b8fbcedcebfc534be1e"
-  integrity sha512-ph3Mt9Bn0IBe2hhm/HBFLAey9NjY+IFPj3RLiK76XBE196HGJrr0Emh3DllhwJtpW93YY0trW3qFyMRlpgPwTQ==
+csrf-csrf@^2.2.4:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/csrf-csrf/-/csrf-csrf-2.2.4.tgz#449251207815ef711484c88c18463bad1879daa5"
+  integrity sha512-LuhBmy5RfRmEfeqeYqgaAuS1eDpVtKZB/Eiec9xiKQLBynJxrGVRdM2yRT/YMl1Njo/yKh2L9AYsIwSlTPnx2A==
   dependencies:
     http-errors "^2.0.0"
 
